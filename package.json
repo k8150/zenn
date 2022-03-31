@@ -1,0 +1,11 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/k8150/zenn.git",
+  "author": "k8150 <kojihaigo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.108"
+  }
+}
